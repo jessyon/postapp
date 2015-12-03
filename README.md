@@ -1,0 +1,2 @@
+# postapp
+simple ruby blog
